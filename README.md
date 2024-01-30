@@ -67,10 +67,11 @@ As for future projects I am looking to take on :
 - Prediction Based Project
 
 Feel free to reach out to me via my Linkedin Page and check out my Project Demos on YouTube as I do quick walkthrough's and explain my projects in a simple way!
-
-<a href="https://www.linkedin.com/in/jashanpreetsingh-js">
-  <img src="https://github.com/DrDeveloperJ/DrDeveloperJ/blob/main/LinkedinIcon.png" alt="Snow" height="50" width="50">
-</a>
-<a href="https://www.youtube.com/@DrDeveloperJ">
-  <img src="https://github.com/DrDeveloperJ/DrDeveloperJ/blob/main/YoutubeIcon.png" alt="Snow" height="50" width="50">
-</a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/jashanpreetsingh-js">
+    <img src="https://github.com/DrDeveloperJ/DrDeveloperJ/blob/main/LinkedinIcon.png" alt="Snow" height="50" width="50">
+  </a>
+  <a href="https://www.youtube.com/@DrDeveloperJ">
+    <img src="https://github.com/DrDeveloperJ/DrDeveloperJ/blob/main/YoutubeIcon.png" alt="Snow" height="50" width="50">
+  </a>
+</div>
