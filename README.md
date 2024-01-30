@@ -1,7 +1,7 @@
 <h2 align="center">:wave: Hi I'm Jashanpreet :D</h2>
 
 ---
-I am a Computer Science student at The University Of Huddersfield, developing passion projects here on GitHub and am focused on learning CS Fundamentals to apply to my work. I mainly program in C++ but am also looking at other technologies such as Java, Javascript, and React among others. Feel free to reach out to me via my Linkedin Page and check out my Project Demos on YouTube.
+I am a Computer Science student at The University Of Huddersfield, developing passion projects here on GitHub and am focused on learning CS Fundamentals to apply to my work. I mainly program in C++ but am also looking at other technologies such as Java, Javascript, and React among others.
 
 ---
 <h2 align="center">:satellite: Projects</h2>
@@ -41,6 +41,36 @@ I am a Computer Science student at The University Of Huddersfield, developing pa
         SFML library in C++.
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=wMTxltScCDo">
+          <img src="https://github.com/DrDeveloperJ/DrDeveloperJ/blob/main/YoutubeIcon.png" alt="Snow" height="50" width="50">
+        </a>
+      </td>
+      <td>
+        <a href="https://www.youtube.com/watch?v=TkDPbkyYqeA">
+          <img src="https://github.com/DrDeveloperJ/DrDeveloperJ/blob/main/YoutubeIcon.png" alt="Snow" height="50" width="50">
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
+        
+---
+<h2 align="center">:sparkles: More About Me</h2>
 
+---
+As for future projects I am looking to take on :
+- C++ Multithreaded Server
+- LLVM Frontend (Compiler)
+- Contributing to a well known open-source project
+- Prediction Based Project
+
+Feel free to reach out to me via my Linkedin Page and check out my Project Demos on YouTube as I do quick walkthrough's and explain my projects in a simple way!
+
+<a href="https://www.linkedin.com/in/jashanpreetsingh-js">
+  <img src="https://github.com/DrDeveloperJ/DrDeveloperJ/blob/main/LinkedinIcon.png" alt="Snow" height="50" width="50">
+</a>
+<a href="https://www.youtube.com/@DrDeveloperJ">
+  <img src="https://github.com/DrDeveloperJ/DrDeveloperJ/blob/main/YoutubeIcon.png" alt="Snow" height="50" width="50">
+</a>
