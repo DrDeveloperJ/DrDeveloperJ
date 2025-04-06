@@ -57,6 +57,12 @@ I am a Computer Science student at The University Of Huddersfield, developing pa
 </table>
         
 ---
+<h2 align="center">:briefcase: Proffesional Experience</h2>
+
+---
+Incoming Placement Software Engineer @ CME Group (Low Latency Financial Market Making) (Options & Derivatives)
+
+---
 <h2 align="center">:sparkles: More About Me</h2>
 
 ---
