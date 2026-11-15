@@ -1,16 +1,83 @@
-## Hi there 👋
+<h2 align="center">:wave: Hi I'm Jashanpreet :D</h2>
 
-<!--
-**DrDeveloperJ/DrDeveloperJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+I am a Computer Science student at The University Of Huddersfield, developing passion projects here on GitHub and am focused on learning CS Fundamentals to apply to my work. I mainly program in C++ and Java.
 
-Here are some ideas to get you started:
+---
+<h2 align="center">:satellite: Projects</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<table align="center" style="table-layout: fixed; width: 500px;">
+  <thead>
+    <tr>
+      <th style="width: 50%;">
+        <a href="https://github.com/DrDeveloperJ/Inventory-Trend-Analysis-System">
+          <img src="https://github.com/DrDeveloperJ/Inventory-Trend-Analysis-System/blob/master/images/SellSystem.PNG" alt="Snow" height="200" width="250">
+        </a>
+      </th>
+      <th style="width: 50%;">
+        <a href="https://github.com/DrDeveloperJ/PetLifeGame">
+          <img src="https://github.com/DrDeveloperJ/DungeonCrawl/blob/main/VideoThumbnail.png" alt="Snow" height="200" width="250">
+        </a>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Inventory Trend Analysis System<b></td>
+      <td><b>DungeonCrawl<b></td>
+    </tr>
+    <tr>
+      <td>
+        A system that allows a business<br>
+        to analyse trends in purchase<br>
+        habits of each of their sold<br>
+        products/services. (C++)
+      </td>
+      <td>
+        A DungeonCrawling Game where <br>
+        you fight enemies as you go <br>
+        through a dungeon, in a turn <br>
+        based fighting-style
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=wMTxltScCDo">
+          <img src="https://github.com/DrDeveloperJ/DrDeveloperJ/blob/main/YoutubeIcon.png" alt="Snow" height="50" width="50">
+        </a>
+      </td>
+      <td>
+        <a href="https://www.youtube.com/watch?v=bpa4bH_8zmY">
+          <img src="https://github.com/DrDeveloperJ/DrDeveloperJ/blob/main/YoutubeIcon.png" alt="Snow" height="50" width="50">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+        
+---
+<h2 align="center">:briefcase: Professional Career</h2>
+
+---
+Previously a Placement Software Engineer @ CME Group
+
+---
+<h2 align="center">:sparkles: More About Me</h2>
+
+---
+As for future projects I am looking to take on :
+- C++ Multithreaded Server
+- LLVM Frontend (Compiler)
+- Contributing to a well known open-source project
+- Prediction Based Project
+
+Feel free to reach out to me via my Linkedin Page and check out my Project Demos on YouTube as I do quick walkthrough's and explain my projects in a simple way!
+<div align="center">
+  <a href="https://www.linkedin.com/in/jashanpreetsingh-js">
+    <img src="https://github.com/DrDeveloperJ/DrDeveloperJ/blob/main/LinkedinIcon.png" alt="Snow" height="50" width="50">
+  </a>
+  <a href="https://www.youtube.com/@DrDeveloperJ">
+    <img src="https://github.com/DrDeveloperJ/DrDeveloperJ/blob/main/YoutubeIcon.png" alt="Snow" height="50" width="50">
+  </a>
+</div>
